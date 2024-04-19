@@ -110,6 +110,27 @@ justify-content: center;
      font-size: 2.5rem;
   
 }
+.bg{
+  background-image: url(econlogoblue.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  z-index: 500px;
+  width: 12rem;
+  height: 11rem;
+  margin-top: -175px;
+  margin-left: 100px;
+}
+.bg1{
+  background-image: url(ipl-logo-new-old.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  z-index: 500px;
+  width: 22rem;
+  height: 11rem;
+  margin-top: -175px;
+margin-left: 95rem;
+  
+}
 .content {
   font-family: Garamond;
   font-size: 32px;
@@ -133,6 +154,7 @@ justify-content: center;
 }
 .rule2 {
   font-size: 1.7rem;    
+  padding-top:  1rem;
 }
 
 }
@@ -141,6 +163,28 @@ justify-content: center;
   .rule {
     font-size: 2.5rem;
  
+}
+
+.bg{
+  background-image: url(econlogoblue.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  z-index: 500px;
+  width: 10rem;
+  height: 9rem;
+  margin-top: -175px;
+  margin-left: 80px;
+}
+.bg1{
+  background-image: url(ipl-logo-new-old.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  z-index: 500px;
+  width: 20rem;
+  height: 10rem;
+  margin-top: -140px;
+margin-left: 55rem;
+  
 }
 .content {
  font-family: Garamond;
@@ -174,6 +218,26 @@ justify-content: center;
   .rule {
     font-size: 2.5rem;
  
+}.bg{
+  background-image: url(econlogoblue.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  z-index: 500px;
+  width: 12rem;
+  height: 11rem;
+  margin-top: -175px;
+  margin-left: 100px;
+}
+.bg1{
+  background-image: url(ipl-logo-new-old.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  z-index: 500px;
+  width: 22rem;
+  height: 11rem;
+  margin-top: -175px;
+margin-left: 70rem;
+  
 }
 .content {
  font-family: Garamond;
@@ -208,6 +272,27 @@ justify-content: center;
     font-size: 2.5rem;
  
 }
+.bg{
+  background-image: url(econlogoblue.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  z-index: 500px;
+  width: 10rem;
+  height: 9rem;
+  margin-top: -175px;
+  margin-left: 80px;
+}
+.bg1{
+  background-image: url(ipl-logo-new-old.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  z-index: 500px;
+  width: 18rem;
+  height: 9rem;
+  margin-top: -140px;
+margin-left: 48rem;
+  
+}
 .content {
  font-family: Garamond;
  font-size: 26.9px;
@@ -230,7 +315,8 @@ justify-content: center;
  
 }
 .rule2 {
- font-size: 1.4rem;    
+ font-size: 1.4rem;   
+ margin-top: 1rem; 
 }
   
 }
